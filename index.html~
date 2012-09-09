@@ -16,23 +16,26 @@
     <div class="wrapper">
       <header>
         <h1>Rkuncewicz</h1>
-        <p>A nice tall glass of Robert Krunk</p>
+        <p>A very nice tall glass of Robert Krunk</p>
 
         <p class="view"><a href="https://github.com/rkuncewicz/rkuncewicz">View the Project on GitHub <small>rkuncewicz/rkuncewicz</small></a></p>
 
-
         <ul>
-          <li><a href="https://github.com/rkuncewicz/rkuncewicz/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/rkuncewicz/rkuncewicz/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/rkuncewicz/rkuncewicz">View On <strong>GitHub</strong></a></li>
-        </ul>
+          <li><a href="Index.html">Download <strong>Home</strong></a></li>
+          <li><a href="About.html">About<strong>About</strong></a></li>
+          <li><a href="ASECO.html">View On <strong>ASECO Integrated Systems</strong></a></li>
+	  <li><a href="WorkingatAseco.html">View On <strong>Working at ASECO</strong></a></li>
+	  <li><a href="Goals.html">View On <strong>Goals During Workterm</strong></a></li>
+	  <li><a href="Projects.html">View On <strong>Projects</strong></a></li>
+	  <li><a href="Acknowledgement.html">View On <strong>Acknowlegements</strong></a></li>	  
+  	</ul>
       </header>
       <section>
-        <h3>Welcome to GitHub Pages.</h3>
+        <h3>Welcome to Robert Kuncewicz's Work Term Report</h3>
 	<p>Abloof</p>
       </section>
       <footer>
-        <p>This project is maintained by <a href="https://github.com/rkuncewicz">rkuncewicz</a></p>
+        <p>This project is maintained by <a href="https://github.com/rkuncewicz">Robert Kuncewicz</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
