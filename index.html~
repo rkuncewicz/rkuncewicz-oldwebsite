@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
         <h1>Rkuncewicz</h1>
-        <p>A nice tall glass of Robert Kuncewicz</p>
+        <p>A nice tall glass of Robert Krunk</p>
 
         <p class="view"><a href="https://github.com/rkuncewicz/rkuncewicz">View the Project on GitHub <small>rkuncewicz/rkuncewicz</small></a></p>
 
@@ -29,8 +29,7 @@
       </header>
       <section>
         <h3>Welcome to GitHub Pages.</h3>
-
-<p>Abloof</p>
+	<p>Abloof</p>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/rkuncewicz">rkuncewicz</a></p>
