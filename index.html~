@@ -115,16 +115,8 @@
                 <cite>Greg - <span>CEO of New Company</span></cite></blockquote>
                 <blockquote class="testimonial_block">
                 <p>Mauris luctus gravida lorem pretium porttitor.  Etiam vitae sodales turpis. Curabitur vel faucibus libero. Duis a eros sit amet diam hendrerit egestas. </p>
-		<cite>Tera - <span>Marketing Director of Old Company</span></cite></blockquote>
-                <<cite>Greg - <span>CEO of New Company</span></cite></blockquote>
-                <blockquote class="testimonial_block">
-                <p>Mauris luctus gravida lorem pretium porttitor.  Etiam vitae sodales turpis. Curabitur vel faucibus libero. Duis a eros sit amet diam hendrerit egestas. </p>
-		<cite>Tera - <span>Marketing Director of Old Company</span></cite></blockquote>
-		<cite>Greg - <span>CEO of New Company</span></cite></blockquote>
-                <blockquote class="testimonial_block">
-                <p>Mauris luctus gravida lorem pretium porttitor.  Etiam vitae sodales turpis. Curabitur vel faucibus libero. Duis a eros sit amet diam hendrerit egestas. </p>
-		<cite>Tera - <span>Marketing Director of Old Company</span></cite></blockquote>
-		<a href="#home" class="home_btn">home</a> 
+                <cite>Tera - <span>Marketing Director of Old Company</span></cite></blockquote>
+                <a href="#home" class="home_btn">home</a> 
                 <a href="#portfolio" class="page_nav_btn previous">Previous</a>
                 <a href="#contact" class="page_nav_btn next">Next</a>
             </div> 
