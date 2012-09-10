@@ -252,7 +252,7 @@ a.header {
 }
 
 .section  a.previous { 
-	left: 300px; 
+	left: 400px; 
 	background: url(../images/previous.png) left center no-repeat; 
 	padding-left: 40px; 
 }
