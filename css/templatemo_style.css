@@ -252,13 +252,13 @@ a.header {
 }
 
 .section  a.previous { 
-	left: 20px; 
+	left: 400px; 
 	background: url(../images/previous.png) left center no-repeat; 
 	padding-left: 40px; 
 }
 
 .section  a.next { 
-	right: 40px; 
+	right: 100px; 
 	background: url(../images/templatemo_next.png) right center no-repeat; 
 	padding-right: 40px; 
 }
