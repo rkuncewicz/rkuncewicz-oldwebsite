@@ -248,7 +248,7 @@ a.header {
 	height: 27px; 
 	line-height: 27px; 
 	font-weight: 700; 
-	bottom: 20px; 
+	top: 20px; 
 }
 
 .section  a.previous { 
