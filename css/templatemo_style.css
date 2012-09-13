@@ -303,20 +303,20 @@ a.header {
 	background-image: url(../images/icon_about.png); 
 }
 
-#templatemo_menu li a.services { 
-	background-image: url(../images/icon_services.png); 
+#templatemo_menu li .ASECO { 
+	background-image: url(../images/icon_ASECO.png); 
 }
 
-#templatemo_menu li a.portfolio { 
-	background-image: url(../images/icon_portfolio.png); 
+#templatemo_menu li .work { 
+	background-image: url(../images/icon_work.png); 
 }
 
-#templatemo_menu li a.testimonial { 
-	background-image: url(../images/icon_testimonial.png); 
+#templatemo_menu li .goals { 
+	background-image: url(../images/icon_goals.png); 
 }
 
-#templatemo_menu li a.contact { 
-	background-image: url(../images/icon_contact.png); 
+#templatemo_menu li .acknowledgement { 
+	background-image: url(../images/icon_acknowledgement.png); 
 }
 
 #social_links {
