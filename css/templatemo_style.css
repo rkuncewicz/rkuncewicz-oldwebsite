@@ -141,6 +141,10 @@ a.header {
 	margin: 3px 15px 5px 0; 
 }
 
+.img_cent{
+	margin:auto;
+}
+
 .img_fr { 
 	float: left; 
 	margin: 3px 0 5px 15px; 
@@ -304,8 +308,7 @@ a.header {
 }
 
 #templatemo_menu li .ASECO { 
-	display:block;
-	margin:auto;
+	background-position: 14px 50px;
 	background-image: url(../images/icon_ASECO.png); 
 }
 
