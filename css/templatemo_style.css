@@ -304,6 +304,7 @@ a.header {
 }
 
 #templatemo_menu li .ASECO { 
+	display:block;
 	background-image: url(../images/icon_ASECO.png); 
 }
 
